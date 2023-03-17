@@ -6,7 +6,7 @@ import Home from './components/Home';
 import Dsapage from './components/Dsapage';
 import Array from './components/Array';
 import About from './components/About';
-import Footer from './components/Footer';
+
 
 function App() {
   
