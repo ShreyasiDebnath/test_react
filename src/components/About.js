@@ -52,7 +52,7 @@ export default function About() {
                 <div><ul className='about-links'>
                 <li><a  className="fa fa-linkedin" href="/" target="_blank"rel="noreferrer"> </a></li>
                         <li><a className="fa fa-github" href="/"target="_blank"rel="noreferrer"> </a></li>
-                        <li><a href = "#"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
+                        <li><a href = "/"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
                     </ul></div>
             </div>
             <div className="col-lg-3">
@@ -62,7 +62,7 @@ export default function About() {
                 <div><ul className='about-links'>
                 <li><a  className="fa fa-linkedin" href="/" target="_blank"rel="noreferrer"> </a></li>
                         <li><a className="fa fa-github" href="/"target="_blank"rel="noreferrer"> </a></li>
-                        <li><a href = "#"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
+                        <li><a href = "/"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
                     </ul></div>
             </div>
             <div className="col-lg-3">
@@ -74,7 +74,7 @@ export default function About() {
                     <ul className='about-links'>
                         <li><a  className="fa fa-linkedin" href="/" target="_blank"rel="noreferrer"> </a></li>
                         <li><a className="fa fa-github" href="/"target="_blank"rel="noreferrer"> </a></li>
-                        <li><a href = "#"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
+                        <li><a href = "/"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
                     </ul>
                    
                     </div>
@@ -86,7 +86,7 @@ export default function About() {
                 <div><ul className='about-links'>
                 <li><a  className="fa fa-linkedin" href="/" target="_blank"rel="noreferrer"> </a></li>
                         <li><a className="fa fa-github" href="/"target="_blank"rel="noreferrer"> </a></li>
-                        <li><a href = "#"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
+                        <li><a href = "/"target="_blank"rel="noreferrer"> <img className="fa fa-email"  src={email} alt="..."/></a></li>
                     </ul></div>
              </div>
         </div>
